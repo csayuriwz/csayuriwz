@@ -27,5 +27,3 @@
   
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catarina-sayuri-103103224/)
-  
-  [![Instagram](https://img.freepik.com/vetores-premium/icone-do-instagram-de-logotipo-de-distintivo-moderno_578229-124.jpg)] (https://www.instagram.com/cat.sayuriz/0)
