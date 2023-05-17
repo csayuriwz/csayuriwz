@@ -1,12 +1,12 @@
-<img src="https://github.com/GabrielHenriqueas/GabrielHenriqueas/blob/main/Rectangle.png">
+<img src="https://github.com/csayuriwz/csayuriwz/blob/main/Rectangle.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&width=630&lines=Ol%C3%A1+dev%2C+seja+bem-vindo(a)!;Saiba+mais+sobre+mim+aqui+ツ)](https://git.io/typing-svg)
-<img src="https://github.com/GabrielHenriqueas/GabrielHenriqueas/blob/main/shiny-charizard-fire.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Charizard">
+<img src="https://github.com/csayuriwz/csayuriwz/blob/main/HotOccasionalIntermediateegret-size_restricted.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Lapras">
 
-<img src="https://github.com/GabrielHenriqueas/GabrielHenriqueas/blob/main/Rectangle.png">
+<img src="https://github.com/csayuriwz/csayuriwz/blob/main/Rectangle.png">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHenriqueas&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenriqueas&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csayuriwz&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csayuriwz&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
   
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
