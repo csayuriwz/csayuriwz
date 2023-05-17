@@ -27,3 +27,5 @@
   
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catarina-sayuri-103103224/)
+  
+![Snake animation](https://github.com/csayuriwz/csayuriwz/blob/output/github-contribution-grid-snake.svg)
