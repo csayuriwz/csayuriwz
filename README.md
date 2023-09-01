@@ -23,7 +23,7 @@
  
  📌 Cursando Técnico em Desenvolvimento de Sistemas - SENAI de Informática "Paulo Skaff" (conclusão em dez/2024)
   
-  📌 Cursando Fundamento em Segurança de Redes de Dados (conclusão em jul/2023)
+  📌 Fundamento em Segurança de Redes de Dados (concluido jul/2023)
   
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catarina-sayuri-103103224/)
