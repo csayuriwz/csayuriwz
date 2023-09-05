@@ -24,8 +24,13 @@
  📌 Cursando Técnico em Desenvolvimento de Sistemas - SENAI de Informática "Paulo Skaff" (conclusão em dez/2024)
   
 📌 Fundamento em Segurança de Redes de Dados (concluido jul/2023)
+
+
+<h2> Certificações 📑 </h2>
+<div>
+  <a href="https://www.credly.com/badges/3c0590e9-d589-4b47-8422-5c18bbcb2a44/public_url">
+  <img width="20%" height="20%"  src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png"/>
+  </div>
   
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catarina-sayuri-103103224/)
-  
-![Snake animation](https://github.com/csayuriwz/csayuriwz/blob/output/github-contribution-grid-snake.svg)
