@@ -25,11 +25,18 @@
   
 📌 Fundamento em Segurança de Redes de Dados (concluido jul/2023)
 
-
+<div style="display: inline_block">
 <h2> Certificações 📑 </h2>
-<div>
+<div >
   <a href="https://www.credly.com/badges/3c0590e9-d589-4b47-8422-5c18bbcb2a44/public_url">
   <img width="20%" height="20%"  src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png"/>
+  </div>
+
+  <div>
+  <a href="https://www.credly.com/badges/40c11381-3220-4419-a19e-26b95ab4e883">
+  <img width="20%" height="20%"  src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
+  </div>
+
   </div>
   
 ## Contatos ✉️
