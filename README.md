@@ -1,6 +1,13 @@
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7D9D&center=true&vCenter=true&width=476&height=80&lines=Hello+World!!+%3C3" alt="Typing SVG" /></a><img src="https://github.com/csayuriwz/csayuriwz/blob/main/HotOccasionalIntermediateegret-size_restricted.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Lapras">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7D9D&center=true&vCenter=true&width=476&height=80&lines=Hello+World!!+%3C3" alt="Typing SVG" />
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/23/66/cd/2366cd1023ffb7c12b813a6fd0400265.gif"  />
+</div>
+
+###
+</a><img src="https://github.com/csayuriwz/csayuriwz/blob/main/HotOccasionalIntermediateegret-size_restricted.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Lapras">
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=csayuriwz&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="csayuriwz github stats" /> 
