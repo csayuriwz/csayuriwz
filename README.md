@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=166&color=d73169&textBg=false&section=header&reversal=true"/>
 
 <img align="right" height="191" src="https://i.pinimg.com/originals/23/66/cd/2366cd1023ffb7c12b813a6fd0400265.gif"  />
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7D9D&center=true&vCenter=true&width=476&height=80&lines=Hello+World!!+%3C3" alt="Typing SVG" />
+<p align="center" font-size= 50><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7D9D&center=true&vCenter=true&width=476&height=80&lines=Hello+World!!+%3C3" alt="Typing SVG" />
 <br><br><br><br><br><br><br>ㅤ</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=csayuriwz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="149" alt="stats graph"  />
