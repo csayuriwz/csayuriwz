@@ -1,5 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&collor=FFC9C9&height=120&section=header"/>
+<img width=100% src="hhttps://capsule-render.vercel.app/api?type=waving&height=166&color=FFC9C9&textBg=false&section=header&reversal=true"/>
 <br>
+
+
 <img align="right" height="191" src="https://i.pinimg.com/originals/23/66/cd/2366cd1023ffb7c12b813a6fd0400265.gif"  />
 
 
