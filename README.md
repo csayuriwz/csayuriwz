@@ -5,23 +5,7 @@
 
 <img align="right" height="191" src="https://i.pinimg.com/originals/23/66/cd/2366cd1023ffb7c12b813a6fd0400265.gif"  />
 
-###
 
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=csayuriwz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
