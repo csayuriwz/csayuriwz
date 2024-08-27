@@ -1,5 +1,3 @@
-<img src="https://github.com/csayuriwz/csayuriwz/blob/main/Rectangle.png">
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7D9D&width=435&lines=Hello+World!!+%3C3" alt="Typing SVG" /></a>
 <img src="https://github.com/csayuriwz/csayuriwz/blob/main/HotOccasionalIntermediateegret-size_restricted.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Lapras">
 
