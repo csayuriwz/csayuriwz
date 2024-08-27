@@ -7,8 +7,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csayuriwz&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/236x/80/51/0c/80510c31968e815d7419a060a460ce75.jpg"  />
+  <img height="200" src="https://i.pinimg.com/originals/38/83/8d/38838d2369fe10f9e3f03e92bde4883c.gif"  />
 </div>
+
+###
 
 ###
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=csayuriwz&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
