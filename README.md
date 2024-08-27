@@ -9,8 +9,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7D9D&center=true&vCenter=true&width=476&height=80&lines=Hello+World!!+%3C3" alt="Typing SVG" />
 <br><br><br><br><br><br><br>ㅤ</p>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=csayuriwz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="149" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=csayuriwz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="148" alt="languages graph"  />
