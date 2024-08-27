@@ -59,7 +59,6 @@
   <img width="20%" height="20%"  src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
     
   </div>
-     <img src="https://raw.githubusercontent.com/csayuriwz/csayuriwz/output/snake.svg" alt="Snake animation" />
   </div>
   
 ## Contatos ✉️
