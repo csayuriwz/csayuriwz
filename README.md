@@ -1,6 +1,6 @@
 <img src="https://github.com/csayuriwz/csayuriwz/blob/main/Rectangle.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&width=630&lines=Ol%C3%A1+dev%2C+seja+bem-vindo(a)!;Saiba+mais+sobre+mim+aqui+ツ)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7D9D&width=435&lines=Hello+World!!+%3C3" alt="Typing SVG" /></a>
 <img src="https://github.com/csayuriwz/csayuriwz/blob/main/HotOccasionalIntermediateegret-size_restricted.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Lapras">
 
 <div align="center">  
